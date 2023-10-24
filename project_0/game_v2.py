@@ -40,8 +40,16 @@ def score_game(random_predict) -> int:
         count_ls.append(random_predict(number))
 
     score = int(np.mean(count_ls)) # находим среднее количество попыток
-
-    print(f'Ваш алгоритм угадывает число в среднем за: {score} попыток')
+    
+    if str(score)[-1] == '1':
+        print(f'Ваш алгоритм угадывает число в среднем за: {score} попытку')
+    
+    elif str(score)[-1] in ['2', '3', '4']:
+        print(f'Ваш алгоритм угадывает число в среднем за: {score} попытки')
+        
+    else:
+        print(f'Ваш алгоритм угадывает число в среднем за: {score} попыток')
+        
     return(score)
 
 # RUN
