@@ -10,7 +10,7 @@
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
-Файл на Google Диске: [Проект_0]https://colab.research.google.com/drive/1llLzCb75OTLfhRqfZLuyNqb9riPTs201?usp=drive_link.
+Файл на Google Диске: [Проект_0](https://colab.research.google.com/drive/1llLzCb75OTLfhRqfZLuyNqb9riPTs201?usp=drive_link).
 
 :arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/project_0/README.md#Оглавление)
 
@@ -32,25 +32,27 @@
 
 
 ### Краткая информация о данных
-....
+Компьютер загадывает случайное число
   
 :arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/project_0/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
-....
+1. Написана игра, в которой пользователь самостоятельно угадывает числа
+2. Написана игра, в которой числа угадывает уже компьютер, но пока ещё случайным образом
+3. Написана игра, в которой компьютер угадывает число за минимальное количество попыток
 
 :arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/project_0/README.md#Оглавление)
 
 
 ### Результаты:  
-....
+Задача выполнена, программа работает, попыток меньше 20
 
 :arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/project_0/README.md#Оглавление)
 
 
 ### Выводы:  
-....
+Случайное угадывание - очень долгий процесс, лучше использовать алгоритм.
 
 :arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/project_0/README.md#Оглавление)
 
