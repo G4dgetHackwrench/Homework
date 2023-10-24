@@ -39,7 +39,7 @@
 
 ### Этапы работы над проектом  
 1. Написана [игра](https://github.com/Webbigail1/Homework/blob/main/project_0/game.py), в которой пользователь самостоятельно угадывает числа
-2. Написана [гра](https://github.com/Webbigail1/Homework/blob/main/project_0/game_v2.py), в которой числа угадывает уже компьютер, но пока ещё случайным образом
+2. Написана [игра](https://github.com/Webbigail1/Homework/blob/main/project_0/game_v2.py), в которой числа угадывает уже компьютер, но пока ещё случайным образом
 3. Написана [игра](https://github.com/Webbigail1/Homework/blob/main/project_0/game_v3.py), в которой компьютер угадывает число за минимальное количество попыток
 
 :arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/project_0/README.md#Оглавление)
