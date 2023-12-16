@@ -1,21 +1,21 @@
 # Проект 1. Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ_резюме_из_HeadHunter/README.md#Описание-проекта)  
-[2. Какую задачу решаем?](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ_резюме_из_HeadHunter/README.md#Какую-задачу-решаем)  
-[3. Краткая информация о данных](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ_резюме_из_HeadHunter/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ_резюме_из_HeadHunter/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ_резюме_из_HeadHunter/README.md#Результат)    
-[6. Выводы](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ_резюме_из_HeadHunter/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Описание-проекта)  
+[2. Какую задачу решаем?](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Какую-задачу-решаем)  
+[3. Краткая информация о данных](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Результат)    
+[6. Выводы](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Выводы) 
 
 ### Описание проекта    
 Часть соискателей не указывает желаемую заработную плату, когда составляет своё резюме.
 Это является помехой для рекомендательной системы HeadHunter, которая подбирает соискателям список наиболее подходящих вакансий, а работодателям — список наиболее подходящих специалистов.
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
 Файлы с исходными данными: [Файл на Google Диске](https://drive.google.com/file/d/1k1SqD63hhs04CcBO8VXUJhW8N_spm6hI/view?usp=sharing);
-                           [Выгрузка курсов валют](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ_резюме_из_HeadHunter/data/ExchangeRates.csv)
+                           [Выгрузка курсов валют](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/data/ExchangeRates.csv)
 
-:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ_резюме_из_HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunterr/README.md#Оглавление)
 
 
 ### Какую задачу решаем?    
@@ -38,7 +38,7 @@ date — дата;
 proportion — пропорция;
 close — цена закрытия (последний зафиксированный курс валюты на указанный день).
   
-:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ_резюме_из_HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -53,18 +53,18 @@ close — цена закрытия (последний зафиксирован
 4. Очистка данных
     При визуальном анализе, мы нашли несколько несостыковок в данных: пропуски, гигантские размеры желаемых заработных плат, резюме людей слишком «преклонного» возраста, опыт работы, превышающий возраст. Данные требуется очистить.
 
-:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ_резюме_из_HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
 
 
 ### Результаты:  
 Созданы новые более информативные столбцы, удалены столбцы с данными, которые невозможно использовать, построены графики, данные очищены от выбросов, также пропуски либо удалены, либо заменены на корректные значения.
 
-:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ_резюме_из_HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
 
 
 ### Выводы:  
 При построении модели необходимы преобразование и очистка данных для их упорядочивания и структурирования.
 
-:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ_резюме_из_HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
 
 
