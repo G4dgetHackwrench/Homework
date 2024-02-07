@@ -15,7 +15,7 @@
 Файлы с исходными данными: [Файл на Google Диске](https://drive.google.com/file/d/1k1SqD63hhs04CcBO8VXUJhW8N_spm6hI/view?usp=sharing);
                            [Выгрузка курсов валют](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/data/ExchangeRates.csv)
 
-:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunterr/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
 
 
 ### Какую задачу решаем?    
