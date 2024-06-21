@@ -4,9 +4,9 @@
 [1. Описание проекта](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Описание-проекта)  
 [2. Какую задачу решаем?](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Какую-задачу-решаем)  
 [3. Краткая информация о данных](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.mdREADME.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md/README.md#Результат)    
-[6. Выводы](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md/README.md#Выводы) 
+[4. Этапы работы над проектом](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Результат)    
+[6. Выводы](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Выводы) 
 
 ### Описание проекта    
 Создание своей первой модели, основанной на алгоритмах машинного обучения. Соревнования на Kaggle.
