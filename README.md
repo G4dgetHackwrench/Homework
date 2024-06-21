@@ -11,3 +11,5 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/courses/data
 * [Проект 4. Задача классификации](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок%204.%20Введение%20в%20машинное%20обучение/PROJECT-4.%20Задача%20классификации)
 
 ## Ссылки на резюме
+
+* [Kaggle](https://www.kaggle.com/g4dgethackwrench)
