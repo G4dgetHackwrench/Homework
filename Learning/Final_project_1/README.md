@@ -75,6 +75,7 @@
 
 ### Результаты:  
 Наилучший результат был достигнут с техникой понижения размерности - сингулярное разложение(SVD) и способом кластеризации - модель гауссовой смеси(Gaussian Mixture Model, GMM)
+
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Final_project_1/README.md#Оглавление)
 
 
