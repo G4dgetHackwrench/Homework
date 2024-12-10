@@ -1,19 +1,32 @@
 # Проект 5. Задача кластеризации регионов России
 
 ## Оглавление  
+<<<<<<< HEAD
 [1. Описание проекта](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Final_project_1/README.md#Описание-проекта)  
 [2. Какую задачу решаем?](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Final_project_1/README.md#Какую-задачу-решаем)  
 [3. Краткая информация о данных](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Final_project_1/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Final_project_1/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Final_project_1/README.md#Результат)    
 [6. Выводы](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Final_project_1/README.md#Выводы) 
+=======
+[1. Описание проекта](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Final_project_1/README.md#Описание-проекта)  
+[2. Какую задачу решаем?](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Final_project_1/README.md#Какую-задачу-решаем)  
+[3. Краткая информация о данных](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Final_project_1/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Final_project_1/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Final_project_1/README.md#Результат)    
+[6. Выводы](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Final_project_1/README.md#Выводы) 
+>>>>>>> 4ab585d (change)
 
 ### Описание проекта    
 Согласно опросу «инФОМ» от декабря 2021 года, у 27 % россиян хватает денег только на еду, а ещё 9 % не могут позволить себе полноценное питание. Эти люди особенно внимательно следят за ценами, а темп роста цен на продукты обычно превышает средний темп инфляции. При этом Росстат считает, что расходы на продукты питания должны составлять примерно 36 % от среднемесячных расходов россиянина (ещё около 10 % приходится на услуги ЖКХ и жильё, 4 % — на лекарства). До 2021 года «черта бедности» (жизнь на сумму ниже прожиточного минимума) в России определялась стоимостью минимальной продуктовой корзины. В том же году правительство «отвязало» уровень бедности от цен на базовые продукты: с 2021 года прожиточный минимум рассчитывается как 44.2 % от медианного дохода граждан РФ за прошлый год.
 
 В вашем распоряжении есть данные о доходах, заболеваемости, социально незащищённых слоях населения России и другие экономические и демографические данные.
 
+<<<<<<< HEAD
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Final_project_1/README.md#Оглавление)
+=======
+:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Final_project_1/README.md#Оглавление)
+>>>>>>> 4ab585d (change)
 
 
 ### Какую задачу решаем?    
@@ -48,7 +61,11 @@
 * retail_turnover_per_capita_2000_2023.xls — оборот розничной торговли на душу населения, в рублях.
 * newborn_2006_2022_monthly.csv — рождённые в этом месяце, по регионам, без учёта мертворождённых.
   
+<<<<<<< HEAD
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Final_project_1/README.md#Оглавление)
+=======
+:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Final_project_1/README.md#Оглавление)
+>>>>>>> 4ab585d (change)
 
 
 ### Этапы работы над проектом  
@@ -70,16 +87,28 @@
 * ещё есть мысль чтобы пользователь вводил любые данные и ему выдавался вариант к какому кластеру относится данный регион, например является ли регион с такими показателями экономически неблагополучным
 * можно разделить регионы на большее количество кластеров и выделить кластер регионов с повышенным риском оказаться среди неблагополучных
 
+<<<<<<< HEAD
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Final_project_1/README.md#Оглавление)
+=======
+:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Final_project_1/README.md#Оглавление)
+>>>>>>> 4ab585d (change)
 
 
 ### Результаты:  
 Наилучший результат был достигнут с техникой понижения размерности - сингулярное разложение(SVD) и способом кластеризации - модель гауссовой смеси(Gaussian Mixture Model, GMM)
 
+<<<<<<< HEAD
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Final_project_1/README.md#Оглавление)
+=======
+:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Final_project_1/README.md#Оглавление)
+>>>>>>> 4ab585d (change)
 
 
 ### Выводы:  
 Для более эффективной кластеризации стоит использовать понижение размерности.
 
+<<<<<<< HEAD
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Final_project_1/README.md#Оглавление)
+=======
+:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Final_project_1/README.md#Оглавление)
+>>>>>>> 4ab585d (change)

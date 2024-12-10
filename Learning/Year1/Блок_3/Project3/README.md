@@ -1,17 +1,30 @@
 # Проект 3. Соревнование на Kaggle
 
 ## Оглавление  
+<<<<<<< HEAD
 [1. Описание проекта](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Описание-проекта)  
 [2. Какую задачу решаем?](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Какую-задачу-решаем)  
 [3. Краткая информация о данных](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Результат)    
 [6. Выводы](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Выводы) 
+=======
+[1. Описание проекта](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_3/Project3/README.md#Описание-проекта)  
+[2. Какую задачу решаем?](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_3/Project3/README.md#Какую-задачу-решаем)  
+[3. Краткая информация о данных](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_3/Project3/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_3/Project3/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_3/Project3/README.md#Результат)    
+[6. Выводы](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_3/Project3/README.md#Выводы) 
+>>>>>>> 4ab585d (change)
 
 ### Описание проекта    
 Создание своей первой модели, основанной на алгоритмах машинного обучения. Соревнования на Kaggle.
 
+<<<<<<< HEAD
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Оглавление)
+=======
+:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_3/Project3/README.md#Оглавление)
+>>>>>>> 4ab585d (change)
 
 
 ### Какую задачу решаем?    
@@ -47,7 +60,11 @@
 * lat — географическая широта отеля;
 * lng — географическая долгота отеля.
   
+<<<<<<< HEAD
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Оглавление)
+=======
+:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_3/Project3/README.md#Оглавление)
+>>>>>>> 4ab585d (change)
 
 
 ### Этапы работы над проектом  
@@ -57,18 +74,30 @@
 4. Отбор признаков
 5. Построение модели
 
+<<<<<<< HEAD
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Оглавление)
+=======
+:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_3/Project3/README.md#Оглавление)
+>>>>>>> 4ab585d (change)
 
 
 ### Результаты:  
 MAPE ~ 12%, наиболее важными признаками стали новые признаки сделанные из столбца с тэгами с помощью интсрумента SentimentIntensityAnalyzer().
 
+<<<<<<< HEAD
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Оглавление)
+=======
+:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_3/Project3/README.md#Оглавление)
+>>>>>>> 4ab585d (change)
 
 
 ### Выводы:  
 Самыми интересными моментами в этом проекте были создание новых признаков и участие в соревнованиях на платформе Kaggle. Среди более 500 участников соревнований у меня 48 место. Считаю прекрасным результатом, потому что достигла его исключительно благодаря обработке признаков, не изменяя алгоритм модели, на некоторых других алгоритмах(CatBoost, например) хорошие результаты получаются без глубокого разведывательного анализа.
 
+<<<<<<< HEAD
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок_3/Project3/README.md#Оглавление)
+=======
+:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_3/Project3/README.md#Оглавление)
+>>>>>>> 4ab585d (change)
 
 
