@@ -1,21 +1,12 @@
 # Проект 1. Анализ резюме из HeadHunter
 
 ## Оглавление  
-<<<<<<< HEAD
-[1. Описание проекта](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Описание-проекта)  
-[2. Какую задачу решаем?](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Какую-задачу-решаем)  
-[3. Краткая информация о данных](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Результат)    
-[6. Выводы](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Выводы) 
-=======
 [1. Описание проекта](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Описание-проекта)  
 [2. Какую задачу решаем?](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Какую-задачу-решаем)  
 [3. Краткая информация о данных](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Результат)    
 [6. Выводы](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Выводы) 
->>>>>>> 4ab585d (change)
 
 ### Описание проекта    
 Часть соискателей не указывает желаемую заработную плату, когда составляет своё резюме.
@@ -24,11 +15,7 @@
 Файлы с исходными данными: [Файл на Google Диске](https://drive.google.com/file/d/1k1SqD63hhs04CcBO8VXUJhW8N_spm6hI/view?usp=sharing);
                            [Выгрузка курсов валют](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/data/ExchangeRates.csv)
 
-<<<<<<< HEAD
-:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
-=======
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
->>>>>>> 4ab585d (change)
 
 
 ### Какую задачу решаем?    
@@ -51,11 +38,7 @@ date — дата;
 proportion — пропорция;
 close — цена закрытия (последний зафиксированный курс валюты на указанный день).
   
-<<<<<<< HEAD
-:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
-=======
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
->>>>>>> 4ab585d (change)
 
 
 ### Этапы работы над проектом  
@@ -70,30 +53,18 @@ close — цена закрытия (последний зафиксирован
 4. Очистка данных
     При визуальном анализе, мы нашли несколько несостыковок в данных: пропуски, гигантские размеры желаемых заработных плат, резюме людей слишком «преклонного» возраста, опыт работы, превышающий возраст. Данные требуется очистить.
 
-<<<<<<< HEAD
-:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
-=======
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
->>>>>>> 4ab585d (change)
 
 
 ### Результаты:  
 Созданы новые более информативные столбцы, удалены столбцы с данными, которые невозможно использовать, построены графики, данные очищены от выбросов, также пропуски либо удалены, либо заменены на корректные значения.
 
-<<<<<<< HEAD
-:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
-=======
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
->>>>>>> 4ab585d (change)
 
 
 ### Выводы:  
 При построении модели необходимы преобразование и очистка данных для их упорядочивания и структурирования.
 
-<<<<<<< HEAD
-:arrow_up:[к оглавлению](https://github.com/Webbigail1/Homework/tree/main/Learning/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
-=======
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок_1/Project-1.Анализ%20резюме%20из%20HeadHunter/README.md#Оглавление)
->>>>>>> 4ab585d (change)
 
 

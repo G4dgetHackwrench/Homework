@@ -1,21 +1,12 @@
 # Проект 5. Задача регрессии 'Продолжительность поездки на такси в Нью-Йорке'
 
 ## Оглавление  
-<<<<<<< HEAD
-[1. Описание проекта](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Описание-проекта)  
-[2. Какую задачу решаем?](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Какую-задачу-решаем)  
-[3. Краткая информация о данных](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Результат)    
-[6. Выводы](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Выводы) 
-=======
 [1. Описание проекта](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Описание-проекта)  
 [2. Какую задачу решаем?](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Какую-задачу-решаем)  
 [3. Краткая информация о данных](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Результат)    
 [6. Выводы](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Выводы) 
->>>>>>> 4ab585d (change)
 
 ### Описание проекта    
 Представьте, что вы заказываете такси из одной точки Нью-Йорка в другую, причём необязательно, что конечная точка должна находиться в пределах города. Сколько вы должны будете заплатить за поездку?
@@ -30,11 +21,7 @@
 
 Задача, которую мы будем решать, была представлена в качестве Data Science-соревнования с призовым фондом в 30 000 $ на платформе Kaggle в 2017 году.
 
-<<<<<<< HEAD
-:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Оглавление)
-=======
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Оглавление)
->>>>>>> 4ab585d (change)
 
 
 ### Какую задачу решаем?    
@@ -76,11 +63,7 @@
 
 * trip_duration — продолжительность поездки в секундах.
   
-<<<<<<< HEAD
-:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Оглавление)
-=======
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Оглавление)
->>>>>>> 4ab585d (change)
 
 
 ### Этапы работы над проектом  
@@ -90,28 +73,16 @@
 4. Решение задачи регрессии: линейная регрессия и деревья решений
 5. Решение задачи регрессии: ансамбли моделей и построение прогноза
 
-<<<<<<< HEAD
-:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Оглавление)
-=======
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Оглавление)
->>>>>>> 4ab585d (change)
 
 
 ### Результаты:  
 Наилучшие результаты показали градиентный бустинг и XGBoost - метрика RMSLE 0.39. Метрика MAE на модели градиентного бустинга составила 1,8 минуты.
-<<<<<<< HEAD
-:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Оглавление)
-=======
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Оглавление)
->>>>>>> 4ab585d (change)
 
 
 ### Выводы:  
 Ансамбли даже без подбора гиперпараметров показывают лучшие результаты.
 XGBoost отрабатывает значительно быстрее нежели простой градиентный бустинг, при этом его эффективность ничуть не ниже.
 
-<<<<<<< HEAD
-:arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Оглавление)
-=======
 :arrow_up:[к оглавлению](https://github.com/G4dgetHackwrench/Homework/tree/main/Learning/Year1/Блок%205.%20Математика%20в%20ML.%20Часть%20I/PROJECT-5.%20Задача%20регрессии/README.md#Оглавление)
->>>>>>> 4ab585d (change)
