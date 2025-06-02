@@ -164,3 +164,5 @@ my_note.ipynb
 dst-3.0_16_1_hh_database.csv
 \data
 saved_weights.pt
+\test
+\docker
